@@ -1,5 +1,10 @@
+/**
+ *  author : bangaru sai jagadeesh
+ *
+ **/
 import java.io.*;
 import java.util.*;
+
 class NaiveBayesClassification
 {
 	
